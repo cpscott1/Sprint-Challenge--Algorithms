@@ -2,14 +2,12 @@
 
 ## Exercise I
 
-a)
+a) o(n)
 
 
-b)
+b) O(n**2)
 
 
-c)
+c) O(1)
 
 ## Exercise II
-
-
