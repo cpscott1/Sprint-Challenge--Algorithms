@@ -11,3 +11,6 @@ b) O(n**2)
 c) O(1)
 
 ## Exercise II
+
+we have a certain story building with a bunch of eggs.
+if the floor is higher than f then we remove an egg if not then we return that no eggs got dropped.
