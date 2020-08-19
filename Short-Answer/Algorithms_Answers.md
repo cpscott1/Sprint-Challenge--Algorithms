@@ -2,14 +2,17 @@
 
 ## Exercise I
 
-a)
+a) o(n)
 
 
-b)
+b) O(n**2)
 
 
-c)
+c) O(n)
 
 ## Exercise II
 
-
+We would be using a binary tree.
+we have a certain story building with a bunch of eggs when we do the search
+if the floor is higher than f then we remove an egg if not then we return that no eggs got dropped.
+O(log n)
